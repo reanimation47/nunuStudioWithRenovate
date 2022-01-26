@@ -57,7 +57,7 @@
 		"brython": "~3.9.0",
 		"cannon-es": "~0.9.1",
 		"codemirror": "~5.64.0",
-		"draco3d": "~1.3.6",
+		"draco3d": "~1.5.0",
 		"draco3dgltf": "~1.3.6",
 		"escher.js": "~0.1.15",
 		"glsl-editor": "~1.0.0",

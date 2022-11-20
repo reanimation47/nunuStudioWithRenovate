@@ -55,7 +55,7 @@
 		"@esotericsoftware/spine-threejs": "~4.0.14",
 		"@tweenjs/tween.js": "~18.6.4",
 		"brython": "~3.9.0",
-		"cannon-es": "~0.9.1",
+		"cannon-es": "~0.20.0",
 		"codemirror": "~5.64.0",
 		"draco3d": "~1.3.6",
 		"draco3dgltf": "~1.3.6",
